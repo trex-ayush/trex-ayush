@@ -1,13 +1,33 @@
 # Hi there, I'm Ayush Kumar Singh 👋
 
-I'm a 3rd-year B.Tech student passionate about software development and constantly exploring new technologies. Currently diving deep into **cloud computing** with AWS while continuing to develop my skills in full-stack development. I enjoy building small projects to apply what I learn in a practical way. 🚀
+I'm a 3rd-year B.Tech student passionate about software development and constantly exploring new technologies. Currently, I'm focusing on mastering **Data Structures & Algorithms (DSA)** and enhancing my skills in full-stack development. I enjoy building small projects to apply what I learn in a practical way. 🚀
 
-### 🔧 Technologies & Tools I Work With
-- **Languages**: JavaScript, Python, C++
-- **Frameworks/Libraries**: React, Node.js, Express.js
-- **Databases**: MongoDB, Firebase (learning)
-- **Tools**: Git, VS Code
-- **Learning**: AWS (Cloud Services)
+### 🛠 Technologies & Tools I Work With
+- **Languages**: JavaScript, Python, C++  
+  ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+  ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
+  ![C++ Badge](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+- **Frameworks/Libraries**: React, Node.js, Express.js  
+  ![React Badge](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
+  ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white) 
+  ![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+- **Databases**: MongoDB, Firebase (learning)  
+  ![MongoDB Badge](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)  
+  ![Firebase Badge](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+- **Tools**: Git, VS Code  
+  ![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+  ![VS Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
+- **Learning**: DSA (Data Structures & Algorithms)  
+  ![DSA Badge](https://img.shields.io/badge/DSA-5C2D91?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
+
+### 🧑‍💻 DSA Practice
+I have solved **400+ problems** on **GeeksforGeeks**, focusing on **Data Structures & Algorithms (DSA)** to strengthen my problem-solving skills and enhance my coding abilities.
+
+- [Check out my GeeksforGeeks profile](https://www.geeksforgeeks.org/user/singhayul1ly/)
 
 ### 🔍 GitHub Stats
 ![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=trex-ayush&show_icons=true&hide_title=true&count_private=true&theme=radical)
@@ -28,8 +48,7 @@ _**Category: Minor Project**_
 
 This project is aimed at book enthusiasts who want to easily manage their reading habits and track the books they’ve read. "The Grey Ink" allows users to log their books, categorize them, and add notes or reviews for each book. The idea behind this project is to create a simple platform for readers to keep track of their collection, set reading goals, and find book recommendations based on their interests.
 
-**Tech Used**: HTML, CSS, JS
-
+**Tech Used**: HTML, CSS, JavaScript
 
 ---
 
