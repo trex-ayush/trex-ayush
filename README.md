@@ -13,7 +13,7 @@
 ---
 
 <p align="center">
-  <a href="https://leetcode.com/u/trex-ayush/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/ayushsingh03"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
   &nbsp;
   <a href="https://www.geeksforgeeks.org/user/singhayul1ly/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
   &nbsp;
@@ -201,7 +201,7 @@
     <img src="https://img.shields.io/badge/GeeksforGeeks-400+_Solved-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://leetcode.com/u/trex-ayush/">
+  <a href="https://leetcode.com/u/ayushsingh03/">
     <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=flat&logo=leetcode&logoColor=black"/>
   </a>
 </p>
