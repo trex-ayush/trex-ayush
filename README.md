@@ -1,260 +1,215 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=Hey+there%2C+I'm+Ayush+Kumar+Singh+%F0%9F%91%8B;Full-Stack+Developer;MERN+Stack+Enthusiast;Problem+Solver+%7C+400%2B+DSA+Problems;Odoo+Hackathon+2025+Finalist+%F0%9F%8F%86" alt="Typing SVG" />
-</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Ayush%20Kumar%20Singh&fontColor=70A5FD&fontSize=45&fontAlignY=32&desc=Associate%20Software%20Engineer%20%40%20Pabbly%20%20%7C%20%20Full-Stack%20Developer&descColor=A8C8FF&descSize=16&descAlignY=52&animation=fadeIn" width="100%" />
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&height=45&lines=%3E+building+things+that+matter;%3E+turning+ideas+into+production+code)](https://ayushkumarsingh.me)
+
+</div>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ayush-kumar-singh-677388250/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
+  <a href="https://ayushkumarsingh.me"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" alt="Portfolio"/></a>
   &nbsp;&nbsp;
-  <a href="https://github.com/trex-ayush"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/ayush-kumar-singh-677388250/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn"/></a>
   &nbsp;&nbsp;
-  <a href="mailto:singhayush.sa81@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
+  <a href="mailto:singhayush.sa81@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" alt="Gmail"/></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/trex-ayush"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="40" alt="GitHub"/></a>
 </p>
-
----
 
 <p align="center">
-  <a href="https://leetcode.com/u/ayushsingh03"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://leetcode.com/u/ayushsingh03"><img src="https://img.shields.io/badge/LeetCode-000?style=flat-square&logo=leetcode&logoColor=FFA116"/></a>
   &nbsp;
-  <a href="https://www.geeksforgeeks.org/user/singhayul1ly/"><img src="https://img.shields.io/badge/-GeeksforGeeks-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white" alt="GFG"/></a>
+  <a href="https://www.geeksforgeeks.org/user/singhayul1ly/"><img src="https://img.shields.io/badge/GFG-000?style=flat-square&logo=geeksforgeeks&logoColor=2F8D46"/></a>
   &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=trex-ayush&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=trex-ayush&label=Views&color=70A5FD&style=flat-square&labelColor=000" alt="Profile Views"/>
   &nbsp;
-  <img src="https://img.shields.io/github/followers/trex-ayush?label=Followers&style=flat&color=blue" alt="Followers"/>
+  <img src="https://img.shields.io/github/followers/trex-ayush?label=Followers&style=flat-square&color=70A5FD&labelColor=000" alt="Followers"/>
 </p>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+---
 
-## 🚀 About Me
+<div align="center">
 
-- 🎓 Final Year **CSE** student at **VIT Bhopal** (8.5 CGPA)
-- 💼 Former **MERN Stack Intern** at **Bluestock Fintech**
-- 🏆 **Odoo Hackathon 2025 Finalist** (19,000+ participants)
-- 🧠 Solved **400+ DSA problems**
-- 🌱 Currently learning **System Design** & **TypeScript**
-- 🎯 Graduating in **2026** | Open to **Full-Time Opportunities**
-- ☕ Fun Fact: I turn coffee into code!
+💼 **Associate Software Engineer @ Pabbly** &nbsp;|&nbsp; 🎓 **B.Tech CSE @ VIT Bhopal (8.5 CGPA)**
 
-<br clear="both">
+☁️ AWS Certified Cloud Practitioner &nbsp;|&nbsp; 🏆 Odoo Hackathon 2025 Finalist (19,000+ participants)
+
+🧠 400+ DSA Problems Solved &nbsp;|&nbsp; 📚 Learning System Design & Data and AI
+
+</div>
 
 ---
 
-## 💼 Work Experience
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Experience
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=00FF87&vCenter=true&random=false&width=500&lines=Bluestock+Fintech+%7C+Full-Stack+Developer+Intern" alt="Work" />
+<details open>
+<summary><b>Pabbly — Associate Software Engineer &nbsp;&nbsp;<code>Nov 2024 - Present</code></b></summary>
+<br/>
 
-`Apr 2025 - May 2025` | Remote
+> Bhopal, India — Global SaaS billing & subscription platform
 
-- 🔧 Engineered **full-stack IPO data dashboard** using **MERN Stack**
-- 📊 Built **RESTful APIs** with Node.js & Express
-- 🗄️ Designed optimized **MongoDB schemas** for real-time data
-- 🔐 Implemented secure **JWT authentication**
+- Resolved **15+ critical bugs** in payments, webhooks & subscriptions across **5 payment gateways**
+- Fixed dunning, invoicing & tax across **61 models** and **37 cron jobs** for multi-currency accuracy
+- Traced issues across **844+ API routes**, **363 controllers**, **324 React components**
+- **Stack:** `React` `Node.js` `Express.js` `MongoDB` `Tailwind CSS`
+
+</details>
+
+<details>
+<summary><b>Bluestock Fintech — Full-Stack Developer Intern &nbsp;&nbsp;<code>Apr 2025 - May 2025</code></b></summary>
+<br/>
+
+> Remote — Production-ready IPO analytics dashboard
+
+- Engineered full-stack **IPO data dashboard** serving real-time financial data
+- JWT-based authentication with **role-based access control (RBAC)**
+- Optimized **MongoDB schemas & indexes** for faster data retrieval
+- **Stack:** `React.js` `Node.js` `Express.js` `MongoDB` `JWT`
+
+</details>
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Tech Stack
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=300&lines=Languages+%26+Tools" alt="Tech" />
-</p>
-
-### 👨‍💻 Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,java,cpp,python" alt="Languages"/>
-</p>
-
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,sass" alt="Frontend"/>
-</p>
-
-### ⚙️ Backend & Database
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql" alt="Backend"/>
-</p>
-
-### 🔧 Tools & Platforms
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=cpp,js,ts,java,python&theme=dark" alt="Languages"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,sass&theme=dark" alt="Frontend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&theme=dark" alt="Backend"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,linux,aws&theme=dark" alt="Tools"/>
 </p>
 
 ---
 
-## 🏗️ Featured Projects
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="24"> Featured Projects
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FFD93D&vCenter=true&random=false&width=300&lines=My+Best+Work+%F0%9F%9A%80" alt="Projects" />
+<table>
+<tr>
+<td width="50%">
 
-### 🏸 Quick Court - Sports Venue Booking Platform
-> **🏆 Odoo Hackathon 2025 Finalist - Top among 19,000+ participants**
+**[Skill Path — Online Learning Platform](https://study-portal-frontend.onrender.com)** &nbsp;⭐
 
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Tailwind-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-</p>
+`React 19` `Express 5` `MongoDB` `Stripe` `OpenAI` `Gemini`
 
-- ✅ Multi-role authentication (Admin, Owner, Customer)
-- ✅ Reduced media load time by **40%** with Cloudinary
-- ✅ RESTful APIs with JWT authentication
+Multi-role LMS (**Student, Instructor, Admin**) with Stripe payments, AI-powered quiz & notes generation, course marketplace, 18 DB models, co-teacher system & admin dashboard.
 
----
+</td>
+<td width="50%">
 
-### 🔗 URL Shortener Service
+**[Quick Court — Venue Booking](https://github.com/trex-ayush/quick-court)** &nbsp;🏆
 
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-</p>
+`React.js` `Node.js` `Express.js` `MongoDB` `Cloudinary`
 
-- ✅ Processes **500+ daily URLs** with **99.8% uptime**
-- ✅ Rate limiting & secure authentication
-- ✅ Improved response time by **30%**
+Sports court booking with multi-role auth, **40% faster** media loading, real-time availability. **Odoo Hackathon 2025 Finalist** — 19,000+ participants.
 
----
+</td>
+</tr>
+<tr>
+<td width="50%">
 
-### 💬 Devtinder - Social Platform Backend
+**[URL Shortener Service](https://github.com/trex-ayush/url-shortner-backend)**
 
-<p>
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
-</p>
+`Node.js` `Express.js` `MongoDB`
 
-- ✅ User matching algorithm
-- ✅ **1.2s average response time**
-- ✅ Optimized database design
+**500+ daily URLs** with **99.8% uptime**. MongoDB-indexed lookups, click analytics (count, referrer, timestamps), rate limiting & JWT auth.
 
----
+</td>
+<td width="50%">
 
-### 📸 Image Uploader & Manager
+**[DevTinder — Dev Networking](https://github.com/trex-ayush/Dev-Tinder-Backend)**
 
-<p>
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/-Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white"/>
-  <img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white"/>
-</p>
+`JavaScript` `Node.js` `Express.js` `MongoDB`
 
-- ✅ Cloud-based image management
-- ✅ Upload, delete & retrieve seamlessly
+Developer matching algorithm, connection requests & feed generation. **1.2s avg response time** with optimized MongoDB schemas.
+
+</td>
+</tr>
+</table>
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trex-ayush&theme=tokyonight" />
-    <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trex-ayush&theme=default" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trex-ayush&theme=tokyonight" alt="GitHub Profile Details"/>
-  </picture>
-</p>
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=trex-ayush&theme=tokyonight" width="100%" alt="GitHub Profile Details"/>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trex-ayush&theme=tokyonight" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=trex-ayush&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  </picture>
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=trex-ayush&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=70A5FD&icon_color=70A5FD&text_color=A8C8FF&ring_color=70A5FD" height="180" alt="Stats"/>
   &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trex-ayush&theme=tokyonight" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=trex-ayush&theme=tokyonight" alt="Top Languages" height="180"/>
-  </picture>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trex-ayush&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F2027&title_color=70A5FD&text_color=A8C8FF" height="180" alt="Languages"/>
+</div>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trex-ayush&theme=tokyonight&utcOffset=5.5" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=trex-ayush&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180"/>
-  </picture>
-  &nbsp;
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trex-ayush&theme=tokyonight" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=trex-ayush&theme=tokyonight" alt="Most Commit Language" height="180"/>
-  </picture>
-</p>
+<br/>
 
----
-
-## 🔥 Streak Stats
-
-<p align="center">
+<div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats-eight.vercel.app?user=trex-ayush&theme=tokyonight&hide_border=true&background=1A1B27&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF" alt="GitHub Streak"/>
+    <img src="https://github-readme-streak-stats-eight.vercel.app?user=trex-ayush&theme=tokyonight&hide_border=true&background=0F2027&ring=70A5FD&fire=70A5FD&currStreakLabel=A8C8FF&sideLabels=70A5FD&dates=555555" alt="GitHub Streak"/>
   </a>
-</p>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trex-ayush&theme=tokyo-night&hide_border=true&bg_color=0F2027&color=70A5FD&line=70A5FD&point=A8C8FF&area=true&area_color=2C5364" width="100%" alt="Contribution Graph"/>
+</div>
 
 ---
 
-## 📈 Contribution Graph
+## 🧩 LeetCode Stats
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=trex-ayush&theme=tokyo-night&hide_border=true&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area=true&area_color=00D9FF" alt="Contribution Graph"/>
-</p>
-
----
-
-## 🧩 Coding Profiles
-
-<p align="center">
-  <a href="https://www.geeksforgeeks.org/user/singhayul1ly/">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-400+_Solved-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white"/>
+<div align="center">
+  <a href="https://leetcode.com/u/ayushsingh03">
+    <img src="https://leetcard.jacoblin.cool/ayushsingh03?theme=dark&font=Fira%20Code&ext=heatmap&border=0&radius=10" alt="LeetCode Stats"/>
   </a>
-  &nbsp;
-  <a href="https://leetcode.com/u/ayushsingh03/">
-    <img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=flat&logo=leetcode&logoColor=black"/>
-  </a>
-</p>
+</div>
 
 ---
 
 ## 🏆 Achievements
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=16&pause=1000&color=FFD700&center=true&vCenter=true&random=false&width=500&lines=%F0%9F%A5%87+Odoo+Hackathon+2025+Finalist+(19%2C000%2B+participants);%F0%9F%92%BB+Top+Coder+%40+VIT+(15%2C000%2B+students);%F0%9F%93%9A+400%2B+DSA+Problems+Solved;%F0%9F%8E%93+8.5+CGPA+%40+VIT+Bhopal" alt="Achievements" />
-</p>
+<div align="center">
 
-| 🎯 Achievement | 📝 Description |
-|---------------|----------------|
-| 🥇 **Odoo Hackathon 2025 Finalist** | Top projects from **19,000+ participants** |
-| 💻 **Top Coder @ VIT** | Among **15,000+ students** |
-| 📚 **400+ DSA Problems** | GeeksforGeeks & LeetCode |
-| 🎓 **8.5 CGPA** | VIT Bhopal |
+| 🏆 | ☁️ | 🧠 | 🎓 |
+|:---:|:---:|:---:|:---:|
+| **Odoo Hackathon 2025** | **AWS Certified** | **400+ DSA** | **8.5 CGPA** |
+| Finalist — 19K+ teams | Cloud Practitioner | GFG + LeetCode | VIT Bhopal |
+
+</div>
 
 ---
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-</p>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" width="100%"/>
+</div>
 
 ---
 
-## 🤝 Let's Connect!
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=18&pause=1000&color=FF6B6B&center=true&vCenter=true&random=false&width=600&lines=Final+Year+Student+%7C+Open+for+Full-Time+Roles!;Open+for+Collaborations+%26+Opportunities!" alt="Connect" />
-</p>
+### Let's Build Something Together
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/ayush-kumar-singh-677388250/"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"/></a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/trex-ayush"><img src="https://skillicons.dev/icons?i=github" alt="GitHub"/></a>
-  &nbsp;&nbsp;
-  <a href="mailto:singhayush.sa81@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"/></a>
-</p>
+<br/>
 
----
+<a href="https://ayushkumarsingh.me"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" width="40" alt="Portfolio"/></a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/ayush-kumar-singh-677388250/"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="40" alt="LinkedIn"/></a>
+&nbsp;&nbsp;
+<a href="mailto:singhayush.sa81@gmail.com"><img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="40" alt="Gmail"/></a>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" alt="Footer"/>
-</p>
+<br/><br/>
 
-<p align="center">
-  <b>⭐ If you like my work, consider giving a star to my repositories! ⭐</b>
-</p>
+*"First, solve the problem. Then, write the code." — John Johnson*
 
-<p align="center">
-  <i>Thanks for visiting! Have a great day! 😊</i>
-</p>
+**If you like what you see, drop a star on my repos!**
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" />
